@@ -57,3 +57,4 @@ TestResult.xml
 nunit-*.xml
 /dotnet/DemoMVC/wwwroot
 /dotnet/eSmartVehicle/wwwroot
+/eSmartVehicle/.vs
