@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36616.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eVehicle_Web", "eVehicle_Web.csproj", "{4AF98F64-45D0-4234-A26F-CCE77B5A9B21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "..\Domain\Domain.csproj", "{6452D660-0F8D-40B1-904C-65458025A0A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AF98F64-45D0-4234-A26F-CCE77B5A9B21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF98F64-45D0-4234-A26F-CCE77B5A9B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF98F64-45D0-4234-A26F-CCE77B5A9B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF98F64-45D0-4234-A26F-CCE77B5A9B21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6452D660-0F8D-40B1-904C-65458025A0A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6452D660-0F8D-40B1-904C-65458025A0A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6452D660-0F8D-40B1-904C-65458025A0A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6452D660-0F8D-40B1-904C-65458025A0A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6DA625F-E19C-47EA-A6EE-3D8D327C4E74}
+	EndGlobalSection
+EndGlobal
